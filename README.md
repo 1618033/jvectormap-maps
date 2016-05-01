@@ -2,9 +2,15 @@
 Collection of maps for the super map library jVectorMaps. Most are all gathered from the web.
 
 
+###Source: http://codepen.io/zepeda/details/jDhHK
+
+- **Africa** - Map name: *mx_en*
+  - jquery-jvectormap-africa-mill.js
+
+
 ###Source: http://jvectormap.com/
 
-- **Maps** - Map names: *africa_mill*, *africa_merc*
+- **Africa** - Map names: *africa_mill*, *africa_merc*
   - jquery-jvectormap-africa-mill.js
   - jquery-jvectormap-africa-merc.js
 
@@ -35,8 +41,6 @@ Collection of maps for the super map library jVectorMaps. Most are all gathered 
 - **South America** - Map names: *south_america_mill*, *south_america_merc*
   - jquery-jvectormap-south_america-mill.js
   - jquery-jvectormap-south_america-merc.js
-
-- **Countries** - Map names: **
 
 - **Argentina** - Map names: *ar_mill*, *ar_merc*
   - jquery-jvectormap-ar-mill.js
@@ -168,8 +172,6 @@ Collection of maps for the super map library jVectorMaps. Most are all gathered 
 - **Venezuela** - Map names: *ve_mill*, *ve_merc*
   - jquery-jvectormap-ve-mill.js
   - jquery-jvectormap-ve-merc.js
-
-- **Cities** - Map names: **
 
 - **Chicago** - Map names: *us-il-chicago_mill*, *us-il-chicago_merc*
   - jquery-jvectormap-us-il-chicago-mill.js
