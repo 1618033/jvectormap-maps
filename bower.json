@@ -1,0 +1,21 @@
+{
+  "name": "jvectormap-maps",
+  "description": "Bower wrapper for jVectorMap",
+  "main": "main.js",
+  "keywords": [
+    "jvectormap",
+    "bower"
+  ],
+  "authors": [
+    "Rodrigo Palomares"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
