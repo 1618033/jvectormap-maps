@@ -4,8 +4,8 @@ Collection of maps for the super map library jVectorMaps. Most are all gathered 
 
 ###Source: http://codepen.io/zepeda/details/jDhHK
 
-- **Africa** - Map name: *mx_en*
-  - jquery-jvectormap-africa-mill.js
+- **Mexico** - Map name: *mx_en*
+  - jquery-jvectormap-mexico.js
 
 
 ###Source: http://jvectormap.com/
